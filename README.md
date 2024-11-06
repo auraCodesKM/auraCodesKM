@@ -14,6 +14,25 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=auraCodesKM&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+</div>
+</details>
+
+
 # 💫 About Me:
 🔭 I’m currently working on:<br><br>	•	A LifeLine: Real-Time Emergency Response Network project for an open hackathon, focused on public safety and emergency response using smart technologies like blockchain.<br>	•	Developing a Web3 crowdfunding platform with a decentralized approach on the Sepolia testnet.<br><br>💃 I’m looking to collaborate on:<br><br>	•	Blockchain-based applications or any project that leverages Web3 technology.<br>	•	Hackathons or tech challenges where innovative solutions to real-world problems are needed.<br><br>🤝 I’m looking for help with:<br><br>	•	Backend development for my projects, particularly in setting up robust databases (like MongoDB) and integrating with decentralized technologies.<br>	•	Guidance in refining smart contract security and making my Web3 projects more scalable.<br><br>🌱 I’m currently learning:<br><br>	•	MongoDB for efficient backend integration with Web3 platforms.<br>	•	Advanced concepts in CSS and Flexbox layouts to enhance frontend designs for responsive websites.<br>	•	Exploring minor courses at IIT Mandi in fields like AI, data science, or blockchain to broaden my skill set.<br><br>💬 Ask me about:<br><br>	•	Hackathons, project ideas, and strategies for collaborative problem-solving in tech.<br>	•	Tips for starting with blockchain development, setting up smart contracts, and integrating them with frontend interfaces.<br><br>⚡ Fun fact:<br><br>	•	I’m fortunate to have a beautiful girlfriend, and our shared interests in tech often lead to some fun and creative project collaborations!
 
