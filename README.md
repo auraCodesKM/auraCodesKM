@@ -1,28 +1,36 @@
 <div align="center">
 
-  <h1>Hi, I'm Kavin Thakur 👋</h1>
+  <h3><i>"Be better each day"</i></h3>
+  <h1 style="font-size: 3rem; font-weight: bold;">Kavin Thakur</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3596F7&center=true&vCenter=true&width=750&lines=Visiting+AI+Researcher+%40+NIU+Taiwan;Building+Next-Gen+Agentic+AI;Computer+Vision+%26+Deep+Learning;Open+for+Global+Research+Collaborations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3596F7&center=true&vCenter=true&width=1000&lines=Visiting+AI+Researcher+%40+NIU+Taiwan;Architecting+Scalable+Agentic+Systems;GSoC+2026+Aspirant;Building+Computer+Vision+Pipelines" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=auracodeskm&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="auracodeskm" />
-    </a>
-  </p>
+  <br><br>
 
   <div align="center">
-    <a href="https://twitter.com/kavin_thakur" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="https://linkedin.com/in/kavin070810/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:kavinthakur@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://kaggle.com/kavinthakurkm" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
+    <a href="https://docs.google.com/document/d/1x0Lh9wz30pW0navU1bBlZIzD5ppWw0iFfbXBG9ZjS58/edit?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/RESUME-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
+    </a>
+    <a href="https://linkedin.com/in/kavin070810/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/auracodeskm" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://kaggle.com/kavinthakurkm" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+    </a>
+    <a href="mailto:kavinthakur@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
   </div>
 
   <br>
 
   <a href="mailto:kavinthakur@gmail.com">
-    <img src="https://img.shields.io/badge/OPEN%20FOR-Research%20Collaborations%20|%20Fellowships%20|%20Internships%20(Remote/Funded)-00C853?style=for-the-badge&logo=handshake&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/OPEN%20FOR-Research%20Collaborations%20|%20GSoC%20Mentorship%20|%20Fellowships-00C853?style=for-the-badge&logo=handshake&logoColor=white&labelColor=black"/>
   </a>
 
 </div>
@@ -31,18 +39,22 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-I am **Kavin Thakur**, a **Visiting AI Researcher** and Computer Science undergraduate (AIML) with a minor in AI from **IIT Ropar**. I specialize in **Agentic AI**, **Computer Vision**, and **Scalable ML Infrastructure**.
+I am a **Computer Science undergraduate** at **Chitkara University**, **Visiting AI Researcher** at **National Ilan University, Taiwan**, and pursuing a **Minor in AI @ IIT Ropar**.
 
-* 🔭 **Current Role:** Visiting Researcher at **National Ilan University, Taiwan** (Jan '26 - Apr '26).
-* 🚀 **Core Focus:** Building autonomous agents (LLaMA/DeepSeek), optimizing edge AI (Jetson/RPi), and Web3 integrations.
-* 🏆 **Recognition:** Winner of **Swasth-a-thon**, Top 100 in **AMD AI Sprint**, and **GDG Hacks 2025**.
+My work focuses on **bridging research and production**—optimizing heavy Deep Learning models for real-world, edge, and agentic environments. I secured my **first onsite internship** immediately after **Semester 1**, a milestone achievement for my batch.
+
 * 💰 **Total Winnings:** ₹2 Lakh+ (~$2,400 USD | ~€2,250 EUR)
+
+#### **🎯 Current Focus for Open Source / GSoC 2026**
+* **🏗️ Architecture:** Designing scalable pipelines for Multimodal AI.
+* **⚡ Optimization:** Reducing inference latency for LLMs (vLLM, Quantization).
+* **🔬 Research:** Applying Computer Vision to sports analytics (Table Tennis).
 
 ---
 
-### 🛠️ The Full Tech Stack
+### 🛠️ The Tech Ecosystem
 
 <table width="100%">
   <tr>
@@ -109,7 +121,6 @@ I am **Kavin Thakur**, a **Visiting AI Researcher** and Computer Science undergr
     <td>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
       <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
       <img src="https://img.shields.io/badge/MATLAB-orange?style=flat-square" />
@@ -144,7 +155,7 @@ I am **Kavin Thakur**, a **Visiting AI Researcher** and Computer Science undergr
 
 ---
 
-### 🚀 Highlighted Projects
+### 🌟 Featured Projects
 
 <table width="100%">
   <tr>
@@ -163,7 +174,7 @@ I am **Kavin Thakur**, a **Visiting AI Researcher** and Computer Science undergr
     </td>
     <td width="50%">
       <h3 align="center">🗣️ VocalWell</h3>
-      <p align="center"><i>Winner Swasth-a-thon (₹1 Lakh | $1,200 | €1,100 | Incubation)</i></p>
+      <p align="center"><i>Winner Swasth-a-thon (₹1 Lakh | $1,200 | €1,100)</i></p>
       <p>Voice pathology detection system using <b>TensorFlow</b> and <b>Librosa</b> with Web3 privacy.</p>
       <ul>
         <li><b><10s on-device inference</b>.</li>
@@ -182,14 +193,14 @@ I am **Kavin Thakur**, a **Visiting AI Researcher** and Computer Science undergr
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Open Source Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=auracodeskm&show_icons=true&locale=en&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=auracodeskm&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=auracodeskm&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=auracodeskm&theme=tokyo-night&hide_border=true" alt="Activity" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=auracodeskm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=auracodeskm&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Languages" />
 </div>
 
 <br>
