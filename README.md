@@ -39,22 +39,22 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am a **Computer Science undergraduate** at **Chitkara University**, **Visiting AI Researcher** at **National Ilan University, Taiwan**, and pursuing a **Minor in AI @ IIT Ropar**.
 
 My work focuses on **bridging research and production**—optimizing heavy Deep Learning models for real-world, edge, and agentic environments. I secured my **first onsite internship** immediately after **Semester 1**, a milestone achievement for my batch.
 
-* 💰 **Total Winnings:** ₹2 Lakh+ (~$2,400 USD | ~€2,250 EUR)
+*  **Total Winnings:** ₹2 Lakh+ (~$2,400 USD | ~€2,250 EUR)
 
-#### **🎯 Current Focus for Open Source / GSoC 2026**
-* **🏗️ Architecture:** Designing scalable pipelines for Multimodal AI.
-* **⚡ Optimization:** Reducing inference latency for LLMs (vLLM, Quantization).
-* **🔬 Research:** Applying Computer Vision to sports analytics (Table Tennis).
+#### **Current Focus for Open Source / GSoC 2026**
+* **Architecture:** Designing scalable pipelines for Multimodal AI.
+* **Optimization:** Reducing inference latency for LLMs (vLLM, Quantization).
+* **Research:** Applying Computer Vision to sports analytics (Table Tennis).
 
 ---
 
-### 🛠️ The Tech Ecosystem
+### The Tech Ecosystem
 
 <table width="100%">
   <tr>
@@ -155,7 +155,7 @@ My work focuses on **bridging research and production**—optimizing heavy Deep 
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 <table width="100%">
   <tr>
@@ -193,7 +193,7 @@ My work focuses on **bridging research and production**—optimizing heavy Deep 
 
 ---
 
-### 📊 Open Source Contributions
+### Open Source Contributions
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=auracodeskm&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Stats" />
