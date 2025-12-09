@@ -1,38 +1,199 @@
-<h1 align="center">Hi 👋, I'm Kavin Thakur</h1>
-<h3 align="center">A passionate AIML, Next.js, WEB3,Agentic AI developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=auracodeskm&label=Profile%20views&color=0e75b6&style=flat" alt="auracodeskm" /> </p>
+  <h1>Hi, I'm Kavin Thakur 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3596F7&center=true&vCenter=true&width=750&lines=Visiting+AI+Researcher+%40+NIU+Taiwan;Building+Next-Gen+Agentic+AI;Computer+Vision+%26+Deep+Learning;Open+for+Global+Research+Collaborations" alt="Typing SVG" />
+  </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auracodeskm" alt="auracodeskm" /></a> </p>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=auracodeskm&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="auracodeskm" />
+    </a>
+  </p>
 
-<p align="left"> <a href="https://twitter.com/kavin_thakur" target="blank"><img src="https://img.shields.io/twitter/follow/kavin_thakur?logo=twitter&style=for-the-badge" alt="kavin_thakur" /></a> </p>
+  <div align="center">
+    <a href="https://twitter.com/kavin_thakur" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="https://linkedin.com/in/kavin070810/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:kavinthakur@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://kaggle.com/kavinthakurkm" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
+  </div>
 
-- 🔭 I’m currently working on [Fusion Pay](https://github.com/auraCodesKM/fpy)
+  <br>
 
-- 🌱 I’m currently learning **Agentic AI,**
+  <a href="mailto:kavinthakur@gmail.com">
+    <img src="https://img.shields.io/badge/OPEN%20FOR-Research%20Collaborations%20|%20Fellowships%20|%20Internships%20(Remote/Funded)-00C853?style=for-the-badge&logo=handshake&logoColor=white&labelColor=black"/>
+  </a>
 
-- 💬 Ask me about **WEB3, Next.JS**
+</div>
 
-- 📫 How to reach me **kavinthakur@gmail.com**
+<br>
 
-- ⚡ Fun fact **I think I am nice or not? ;)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kavin_thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavin_thakur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kavin070810/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavin070810/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/kavinthakurkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kavinthakurkm" height="30" width="40" /></a>
-<a href="https://instagram.com/@mostlykavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mostlykavin" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/aura_km" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/aura_km" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/auracodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="auracodes" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kavinpd94c/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kavinpd94c/profile" height="30" width="40" /></a>
-</p>
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+I am **Kavin Thakur**, a **Visiting AI Researcher** and Computer Science undergraduate (AIML) with a minor in AI from **IIT Ropar**. I specialize in **Agentic AI**, **Computer Vision**, and **Scalable ML Infrastructure**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=auracodeskm&show_icons=true&locale=en&layout=compact" alt="auracodeskm" /></p>
+* 🔭 **Current Role:** Visiting Researcher at **National Ilan University, Taiwan** (Jan '26 - Apr '26).
+* 🚀 **Core Focus:** Building autonomous agents (LLaMA/DeepSeek), optimizing edge AI (Jetson/RPi), and Web3 integrations.
+* 🏆 **Recognition:** Winner of **Swasth-a-thon**, Top 100 in **AMD AI Sprint**, and **GDG Hacks 2025**.
+* 💰 **Total Winnings:** ₹2 Lakh+ (~$2,400 USD | ~€2,250 EUR)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=auracodeskm&show_icons=true&locale=en" alt="auracodeskm" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auracodeskm&" alt="auracodeskm" /></p>
+### 🛠️ The Full Tech Stack
+
+<table width="100%">
+  <tr>
+    <th width="20%">Domain</th>
+    <th width="80%">Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Generative AI & LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude_3.5-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Llama_3.1-0467DF?style=flat-square&logo=meta&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mistral-F5A623?style=flat-square" />
+      <img src="https://img.shields.io/badge/Qwen-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/DeepSeek-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LlamaIndex-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/vLLM-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Ollama-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/LoRA%20|%20QLoRA-green?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Deep Learning & CV</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
+      <img src="https://img.shields.io/badge/JAX-purple?style=flat-square" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLO_v8/v11-00FFFF?style=flat-square" />
+      <img src="https://img.shields.io/badge/SAM_2/3-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/Detectron2-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/Mamba--SSM-black?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/XGBoost-red?style=flat-square" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-black?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web & App Dev</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+      <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+      <img src="https://img.shields.io/badge/MATLAB-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & MLOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/MLflow-blue?style=flat-square&logo=mlflow" />
+      <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pinecone-black?style=flat-square" />
+      <img src="https://img.shields.io/badge/Weaviate-green?style=flat-square" />
+      <img src="https://img.shields.io/badge/ChromaDB-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/FAISS-blue?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Highlighted Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 AI Scheduling Agent</h3>
+      <p align="center"><i>Team Lead @ AMD AI Sprint (Top 100)</i></p>
+      <p>Autonomous agent integrating <b>DeepSeek 7B</b> and <b>LLaMA 3.1</b> to manage cross-timezone meetings.</p>
+      <ul>
+        <li>Reduced coordination time by <b>70%</b>.</li>
+        <li>Achieved <b>2s latency</b> using vLLM on AMD GPUs.</li>
+        <li>Conflict resolution via Google Calendar API.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stack-Python_|_vLLM_|_LLaMA-blue?style=flat-square">
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🗣️ VocalWell</h3>
+      <p align="center"><i>Winner Swasth-a-thon (₹1 Lakh | $1,200 | €1,100 | Incubation)</i></p>
+      <p>Voice pathology detection system using <b>TensorFlow</b> and <b>Librosa</b> with Web3 privacy.</p>
+      <ul>
+        <li><b><10s on-device inference</b>.</li>
+        <li>Ablation studies on MFCCs vs Spectrograms.</li>
+        <li>Web3 backend for secure data ownership.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stack-TensorFlow_|_Web3_|_Librosa-orange?style=flat-square">
+      </p>
+    </td>
+  </tr>
+</table>
+
+> [!NOTE]
+> ⚠️ **Performance Note:** The current deployment utilizes **free-tier infrastructure**, resulting in cold-starts and inference times of **<10s**. With production-grade GPU compute, latency can be optimized **n-folds**.
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=auracodeskm&show_icons=true&locale=en&theme=tokyonight" alt="Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=auracodeskm&theme=tokyonight" alt="Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=auracodeskm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%" />
+</div>
