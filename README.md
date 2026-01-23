@@ -2,10 +2,12 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=180&section=header&text=Kavin%20Thakur&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-  <h3 style="margin-top: -20px;"><i>"Building Autonomous Agents & Scalable Vision Pipelines"</i></h3>
+  <h3 style="margin-top: -20px;">
+    <i>"Simulating intelligence because reality is too slow."</i>
+  </h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3596F7&center=true&vCenter=true&width=1000&lines=Visiting+AI+Researcher+%40+NIU+Taiwan;Minor+in+AI+%40+IIT+Ropar;Winner+Swasth-a-thon+(%E2%82%B91+Lakh);Building+with+DeepSeek+%26+vLLM" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3596F7&center=true&vCenter=true&width=1000&lines=Visiting+AI+Researcher+%40+NIU+Taiwan;Minor+in+AI+%40+IIT+Ropar;Winner+Swasth-a-thon+(%E2%82%B91L+%7C+%241.2k);Building+Agents+with+DeepSeek+%26+vLLM" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -34,7 +36,7 @@ I am a **Visiting AI Researcher** at **National Ilan University (Taiwan)** and a
 
 My work bridges the gap between **Research** and **Production**. I specialize in optimizing Large Language Models (LLMs) for edge environments and building agentic workflows that solve real-world problems.
 
-* 🏆 **Awards:** Total winnings of **₹2 Lakh+** (~$2,400) in Hackathons & Grants.
+* 🏆 **Awards:** Total winnings of **₹2 Lakh+** (~$2,400 USD) in Hackathons & Grants.
 * 🌏 **Global Footprint:** Researcher in Taiwan | Internship Aspirant for Singapore/Japan.
 * 🔭 **Focus:** Autonomous Agents, Medical AI, and Latency Optimization (vLLM/DeepSeek).
 
@@ -93,13 +95,13 @@ My work bridges the gap between **Research** and **Production**. I specialize in
       <h3 align="center">🏥 VocalWell (Medical AI)</h3>
       <p align="center">
         <a href="#">
-           <img src="https://img.shields.io/badge/Swasth--a--thon-Winner_($1.2k)-green?style=flat-square" />
+           <img src="https://img.shields.io/badge/Swasth--a--thon-Winner_(%E2%82%B91L_%7C_%241.2k)-green?style=flat-square" />
         </a>
       </p>
       <p>Bio-acoustic AI for diagnosing voice pathologies using non-invasive audio samples.</p>
       <ul>
         <li><b>Stack:</b> TensorFlow, Librosa, Web3 (Privacy).</li>
-        <li><b>Research:</b> Conducted ablation studies on MFCCs vs Mel-Spectrograms.</li>
+        <li><b>Research:</b> Ablation studies on MFCCs vs Mel-Spectrograms.</li>
         <li><b>Speed:</b> Achieved <10s on-device inference for rural healthcare.</li>
       </ul>
     </td>
@@ -107,7 +109,7 @@ My work bridges the gap between **Research** and **Production**. I specialize in
 </table>
 
 > [!TIP]
-> **Open for Collaboration:** I am actively looking for **Summer 2026 Research Roles** (Singapore/Japan/Europe) and **GSoC 2026 Internship** .
+> **Open for Collaboration:** I am actively looking for **Summer 2026 Research Roles** (Singapore/Japan/Europe) and **GSoC 2026** Mentorships.
 
 ---
 
