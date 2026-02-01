@@ -109,7 +109,7 @@ My work bridges the gap between **Research** and **Production**. I specialize in
 </table>
 
 > [!TIP]
-> **Open for Collaboration:** I am actively looking for **Summer 2026 Research Roles** (Singapore/Japan/Europe) and **GSoC 2026** Mentorships.
+> **Open for Collaboration:** I am actively looking for **Summer 2026 Research Roles** (Singapore/Japan/Europe) and **GSoC 2026** internship.
 
 ---
 
