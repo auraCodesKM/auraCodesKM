@@ -73,7 +73,7 @@ My work bridges the gap between **Research** and **Production**. I specialize in
 
 ---
 
-### 🚀 Selected Projects
+### Selected Projects
 
 <table width="100%">
   <tr>
