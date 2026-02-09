@@ -30,15 +30,15 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I am a **Visiting AI Researcher** at **National Ilan University (Taiwan)** and a CS Undergraduate at **Chitkara University**, currently pursuing a **Minor in AI at IIT Ropar**.
 
 My work bridges the gap between **Research** and **Production**. I specialize in optimizing Large Language Models (LLMs) for edge environments and building agentic workflows that solve real-world problems.
 
-* 🏆 **Awards:** Total winnings of **₹2 Lakh+** (~$2,400 USD) in Hackathons & Grants.
-* 🌏 **Global Footprint:** Researcher in Taiwan | Internship Aspirant for Singapore/Japan.
-* 🔭 **Focus:** Autonomous Agents, Medical AI, and Latency Optimization (vLLM/DeepSeek).
+*  **Awards:** Total winnings of **₹2 Lakh+** (~$2,400 USD) in Hackathons & Grants.
+*  **Global Footprint:** Researcher in Taiwan | Internship Aspirant for Singapore/Japan.
+*  **Focus:** Autonomous Agents, Medical AI, and Latency Optimization (vLLM/DeepSeek).
 
 ---
 
@@ -113,7 +113,7 @@ My work bridges the gap between **Research** and **Production**. I specialize in
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=auracodeskm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
