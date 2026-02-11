@@ -71,7 +71,7 @@ My work bridges the gap between **Research** and **Production**. I specialize in
 
 </div>
 
----
+--
 
 ### Selected Projects
 
