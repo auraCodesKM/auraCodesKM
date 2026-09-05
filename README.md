@@ -124,6 +124,18 @@ My work bridges the gap between **Research** and **Production**. I specialize in
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=auracodeskm&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auracodeskm/auracodeskm/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auracodeskm/auracodeskm/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/auracodeskm/auracodeskm/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
 <br>
 
 <div align="center">
