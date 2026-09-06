@@ -37,23 +37,22 @@ Worked with real-world telecommunications data on preprocessing, feature enginee
 **[GitReason](https://github.com/auraCodesKM/gitReason)** — Codebase intelligence tool that turns a GitHub repository into an architecture explanation, validated dependency graph and interactive source-level map.
 
 ---
-
 ## Stack
 
-**AI / ML**  
-`Python` `PyTorch` `TensorFlow` `scikit-learn` `Transformers` `Hugging Face` `FAISS` `LightRAG` `RAG` `LLMs`
+**AI / ML Engineering**  
+`Python` `PyTorch` `TensorFlow` `Transformers (HF)` `scikit-learn` `NumPy` `Pandas` `FAISS` `RAG Pipelines` `LightRAG`
 
 **Computer Vision / Research**  
-`OpenCV` `CUDA` `GPU Inference` `3D Geometry` `Trajectory Reconstruction` `Model Evaluation`
+`OpenCV` `SAM 3` `HRNet` `CUDA` `3D Trajectory Reconstruction` `Monocular Depth Estimation` `Kalman Filtering` `Model Evaluation & Benchmarking`
 
 **LLM Systems / Inference**  
-`vLLM` `Ollama` `Qwen` `Prompt & Context Engineering` `Agentic AI` `WebSockets`
+`vLLM` `Ollama` `Qwen` `Open-Source LLMs` `Context Engineering` `Agentic Workflows` `WebSocket Streaming`
 
 **Software Engineering**  
-`Java` `C/C++` `TypeScript` `JavaScript` `SQL` `REST APIs` `FastAPI` `Next.js` `Git` `CI/CD`
+`Java` `C++` `TypeScript / JavaScript` `SQL` `FastAPI` `Next.js` `REST APIs` `Git` `CI/CD` `Django` `Flask`
 
-**Backend / Data / Infrastructure**  
-`PostgreSQL` `Redis` `Supabase` `Docker` `Linux` `AWS` `Azure` `GCP`
+**Backend / Infrastructure**  
+`PostgreSQL` `Redis` `MongoDB` `Supabase` `Docker` `Linux` `AWS / GCP / Azure`
 
 ---
 
@@ -69,7 +68,7 @@ Worked with real-world telecommunications data on preprocessing, feature enginee
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution
 
 <div align="center">
   <picture>
