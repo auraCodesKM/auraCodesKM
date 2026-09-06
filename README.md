@@ -40,21 +40,32 @@ Worked with real-world telecommunications data on preprocessing, feature enginee
 
 ## Stack
 
-`Python` `Java` `C/C++` `TypeScript` `SQL`  
-`PyTorch` `TensorFlow` `Transformers` `FAISS` `LightRAG` `vLLM` `Ollama`  
-`FastAPI` `Next.js` `PostgreSQL` `Redis` `WebSockets`  
-`Docker` `Linux` `AWS` `Azure` `GCP` `CUDA` `Git`
+**AI / ML**  
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `Transformers` `Hugging Face` `FAISS` `LightRAG` `RAG` `LLMs`
+
+**Computer Vision / Research**  
+`OpenCV` `CUDA` `GPU Inference` `3D Geometry` `Trajectory Reconstruction` `Model Evaluation`
+
+**LLM Systems / Inference**  
+`vLLM` `Ollama` `Qwen` `Prompt & Context Engineering` `Agentic AI` `WebSockets`
+
+**Software Engineering**  
+`Java` `C/C++` `TypeScript` `JavaScript` `SQL` `REST APIs` `FastAPI` `Next.js` `Git` `CI/CD`
+
+**Backend / Data / Infrastructure**  
+`PostgreSQL` `Redis` `Supabase` `Docker` `Linux` `AWS` `Azure` `GCP`
 
 ---
 
 ## Highlights
 
-- **Top 40 / 24,503** — OpenAI-sponsored AI Summer Residency · Top Performer
-- **1st Place** — National Healthcare AI, IIT Delhi · 436 teams
-- **Top 4** — HackFest 2.0, GDG Cloud New Delhi
-- **1,926 LeetCode rating** — Knight · Top 3.94%
+- **Top 40 / 24,503 · Top 0.16%** — OpenAI-sponsored AI Summer Residency · Top Performer
+- **National Winner · ₹1,00,000** — Swasth-a-Thon, PCI India / IIT Delhi · **436 teams**
+- **Top 4 Nationally** — HackFest 2.0, GDG Cloud New Delhi
+- **Top 150 / 4,000+** — AMD × IIT Bombay AI Sprint
+- **9× National Hackathon Winner** — Multiple wins across GDG Hacks, Code with DCG, Hackaccino, HackEminds and others
+- **1,926 LeetCode rating · Knight · Top 3.94%** — 550+ DSA problems
 - **20+ student developers led** — IEEE Student Branch Tech Lead
-- **550+ DSA problems** — LeetCode, Codeforces, GeeksforGeeks & CodeChef
 
 ---
 
