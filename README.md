@@ -1,86 +1,120 @@
+
 # Kavin Thakur
 
-Third-year CS (AI & ML) student at Chitkara University. I build AI systems that are meant to be trusted, not just demoed: multi-agent pipelines, RAG over messy data, and the evals, tracing and guardrails around them.
+Third-year B.E. Computer Science (AI & ML) student at Chitkara University, graduating in 2028.
 
-Looking for **SWE, AI/ML and research internships** for January–June 2027 or Summer 2027. Graduating June 2028.
+I like building things that are a little harder than they first appear. Most of my work sits somewhere between AI/ML and systems engineering: computer vision, LLMs, multi-agent systems, RAG, agentic memory and backend infrastructure.
 
-[Portfolio](https://kavinthakur.vercel.app) · [LinkedIn](https://linkedin.com/in/kavin070810) · [LeetCode](https://leetcode.com/u/LEETCODE_USERNAME/) · [Kaggle](https://www.kaggle.com/kavinthakurkm) · [Hugging Face](https://huggingface.co/auraCodes) · [Email](mailto:kavinthakur@gmail.com)
+I'm usually interested in the part after the demo works. What happens when the data gets messy, the model gets something wrong, or the system runs out of memory? That's where a lot of the interesting engineering begins.
+
+Currently looking for **SWE, AI/ML and research internships** for January–June 2027 or Summer 2027.
+
+[Portfolio](https://kavinthakur.vercel.app) · [LinkedIn](https://linkedin.com/in/kavin070810) · [LeetCode](https://leetcode.com/u/auraCodes/) · [Kaggle](https://www.kaggle.com/kavinthakurkm) · [Hugging Face](https://huggingface.co/auraCodes) · [Email](mailto:kavinthakur@gmail.com)
 
 ---
 
 ## Projects
 
-### [Judgebench](https://github.com/auraCodesKM/judgebench)
+A few things I've been building, researching and occasionally debugging at unreasonable hours.
+
+### [JudgeBench](https://github.com/auraCodesKM/judgebench)
 `Python` `Google ADK` `Gemini` `PostgreSQL + pgvector` `Google Cloud`
 
-- **Problem:** hackathon judges get a few minutes per team. Claims like "real time" or "fully tested" go unchecked, so the best pitch wins, not the best build.
-- **Solution:** multi-agent pipeline (ReAct investigator, majority-of-3 judges, a critic that can only lower scores) that reads each repo, CI and live app without running any code, then checks every claim against that evidence.
-- **Engineering:** crash-safe state machine with an outbox, one trace per submission, and tokens, latency and cost logged per agent call. 52 security tests cover SSRF, archive bombs and prompt injection.
-- **Result:** majority voting cut score variance from 9.56 to 2.67. Tested on six synthetic repos; first real event pending.
+Can a judging system tell the difference between a convincing demo and something that actually works?
+
+- **Problem:** Hackathon judges have minutes per team. Claims like "real time" or "fully tested" often go unchecked.
+- **Solution:** Multi-agent evaluation pipeline with a ReAct investigator, majority-of-3 judges and a critic that can only lower scores. Examines repositories, CI and live apps without executing submitted code.
+- **Engineering:** Crash-safe state machine with an outbox, one trace per submission, and token, latency and cost tracking per agent call. 52 security tests covering SSRF, archive bombs and prompt injection.
+- **Result:** Majority voting reduced score variance from 9.56 to 2.67. Tested on six synthetic repos; first real event pending.
 
 ### [AfterCircular](https://github.com/auraCodesKM/AfterCircular)
 `Python` `FastAPI` `Azure AI Search` `Next.js`
 
-- **Problem:** compliance teams read every SEBI circular by hand and compare it against their own policies. Most don't apply, and the ones that do bury the change in long PDFs.
-- **Solution:** reads the regulator's site, extracts obligations, and runs hybrid vector + keyword search over the company's policy repo to check each one. A typed classifier triages first, so irrelevant circulars cost no LLM call.
-- **Guardrails:** a conflict needs a verbatim regulatory quote and a matching policy chunk, and nothing is filed without a person's approval.
-- **Result:** ran on Azure Container Apps (Sept 2026). About $0.05 to scan six live circulars.
+Regulatory PDFs aren't exactly anyone's idea of a fun afternoon.
+
+- **Problem:** Compliance teams manually read SEBI circulars and compare them against company policies. Relevant obligations can be buried in lengthy documents.
+- **Solution:** An AI agent that monitors regulatory circulars, extracts obligations and checks them against company policy repositories using hybrid vector and keyword search.
+- **Architecture:** Plug-and-play agency adapters make it possible to switch regulatory sources without changing the core pipeline.
+- **Guardrails:** Conflicts require a verbatim regulatory quote and a matching policy chunk. Nothing is filed without human approval.
+- **Result:** Deployed on Azure Container Apps (September 2026). Approximately $0.05 to scan six live circulars.
 
 ### [BRD Agent](https://github.com/auraCodesKM/brdAgentBackend)
 `Python` `LightRAG` `Redis` `Qwen (local)` `WebSockets`
 
-- **Problem:** requirements are scattered across email threads. Writing a requirements document means working out who asked for what and where stakeholders disagree.
-- **Solution:** builds a knowledge graph of people, systems and decisions from emails, fuses graph and keyword search, reranks, and streams an eight-section document to the UI section by section.
-- **Engineering:** routes narrative sections to a 7B model and table-heavy sections to a 32B model so both fit on one GPU.
-- **Scale:** ingested the real Enron corpus of 500,000 emails. Team project, HackFest 2.0 (GDG Cloud New Delhi); this repo is the backend.
+500,000 emails. That's a lot of context to turn into a requirements document.
+
+- **Problem:** Requirements scattered across email threads make it difficult to identify decisions, stakeholders and disagreements.
+- **Solution:** Builds a knowledge graph of people, systems and decisions, combines graph and keyword retrieval, reranks results and streams an eight-section BRD to the UI.
+- **Engineering:** Routes narrative sections to a 7B model and table-heavy sections to a 32B model to fit within GPU memory constraints.
+- **Scale:** Ingested the real Enron corpus of 500,000 emails. Team project at HackFest 2.0 (GDG Cloud New Delhi); this repository contains the backend.
 
 ### [PingSight](https://github.com/auraCodesKM/PingSight)
 `PyTorch` `OpenCV` `SciPy`
 
-- **Problem:** pro multi-camera ball tracking doesn't exist for ordinary broadcast footage.
-- **Solution:** 3D ball trajectories, bounces and landing zones from a single camera, using a physics fit on top of Kienzle et al. (WACV 2026).
-- **Result:** run on 519 World Tour clips (518 completed). Research at National Ilan University, Taiwan. Results only here; the code is private.
+Can you reconstruct a table tennis ball's 3D trajectory from a single broadcast camera? That became one of my favourite research problems.
+
+- **Problem:** Ordinary broadcast footage doesn't provide the multi-camera views typically used for accurate 3D tracking.
+- **Solution:** Reconstructs 3D ball trajectories, bounces and landing zones from a single camera using physics-based fitting on top of Kienzle et al. (WACV 2026).
+- **Result:** Evaluated on 519 World Tour clips (518 completed). Research conducted at National Ilan University, Taiwan. Results are public; code is private.
 
 ### [GitReason](https://github.com/auraCodesKM/gitReason)
 `React` `Express` `MongoDB` `Gemini`
 
-- **Problem:** LLM summaries of a codebase invent files that don't exist.
-- **Solution:** generates an architecture graph and checks every node against the real file tree. Invalid nodes go back to the model for a fix, then get pruned.
+I've never liked codebase summaries that confidently describe files that don't exist.
+
+- **Problem:** LLM-generated architecture summaries can hallucinate files and relationships.
+- **Solution:** Generates an architecture graph and validates every node against the actual file tree. Invalid nodes are sent back for correction and eventually pruned.
 - **Live:** [git-reason.vercel.app](https://git-reason.vercel.app)
 
-**Also:** [sarvam-tts-dataset](https://github.com/auraCodesKM/sarvam-tts-dataset), a 73-minute Indian English + Hindi speech dataset (555 clips) with a pipeline that rejects bad audio before any paid transcription call.
+**Also:** [sarvam-tts-dataset](https://github.com/auraCodesKM/sarvam-tts-dataset) — a 73-minute Indian English + Hindi speech dataset (555 clips), with a pipeline that rejects bad audio before any paid transcription call.
 
 ---
 
 ## Open source
 
-- **Kubeflow Trainer:** [#4166](https://github.com/kubeflow/trainer/pull/4166) e2e test that checks MPI ranks run on both nodes (merged) · [#4199](https://github.com/kubeflow/trainer/pull/4199) fix for the Volcano gang-scheduling docs (merged)
-- **Jaeger:** [#9811](https://github.com/jaegertracing/jaeger/pull/9811) (in review)
-<!-- TODO: add once the PR number and status are confirmed
-- **Volcano:** [#NNNN](https://github.com/volcano-sh/volcano/pull/NNNN) performance fix, 18 ms → 0.72 ms in benchmark (merged / in review)
+Some of my favourite engineering lessons have come from reading code written by people much smarter than me, understanding why things work the way they do, and finding something worth fixing.
+
+- **Kubeflow Trainer:** [#4166](https://github.com/kubeflow/trainer/pull/4166) — E2E test verifying MPI ranks run on both nodes (merged).
+- **Kubeflow Trainer:** [#4199](https://github.com/kubeflow/trainer/pull/4199) — Volcano gang-scheduling documentation fix (merged).
+- **Jaeger:** [#9811](https://github.com/jaegertracing/jaeger/pull/9811) — in review.
+
+<!-- Add once PR number and status are confirmed:
+- **Volcano:** [#NNNN](https://github.com/volcano-sh/volcano/pull/NNNN) — performance fix, 18 ms → 0.72 ms in benchmark.
 -->
+
+---
 
 ## Experience
 
-- **Co-founder, Cloutly:** an AI agent for content creators, MVP in beta. Built during the IIMA Ventures AI Summer Residency 2026 (40 selected from 24,503 applicants; Top Performer).
-- **Visiting AI/ML Researcher, National Ilan University, Taiwan** (2026)
-- **Technical Head, IEEE-CIET Student Branch:** lead 20+ student developers. Built Split or Steal, an event platform that took 10,000+ burst registrations with zero downtime. Led the branch website's migration to Next.js, TypeScript and Supabase.
-- **Data Science Intern, Infomo Global**
+- **Co-founder, Cloutly:** Building a WhatsApp-first AI agent for content creators, with persistent memory and a brand-side dashboard. MVP in beta. Built during the IIMA Ventures AI Summer Residency 2026 (40 selected from 24,503 applicants; Top Performer).
+- **Visiting AI/ML Researcher, National Ilan University, Taiwan (2026):** Worked on computer vision research, collaborated with an international lab team, and learned a lot about research beyond the results on a screen. Also got to volunteer with lab members, introducing elderly residents to AI tools. One of the most memorable parts of the experience.
+- **Technical Head, IEEE-CIET Student Branch:** Lead 20+ student developers. Built Split or Steal, an event platform that handled 10,000+ burst registrations with zero downtime. Led the branch website migration to Next.js, TypeScript and Supabase.
+- **Data Science Intern, Infomo Global:** My first internship, just after my first semester. A first look at production-scale data and the people who helped me find my feet in the industry.
+
+---
 
 ## Also
 
 - Major in Artificial Intelligence, IIT Ropar
-- 9 hackathon wins, including 1st of 436 teams at Swasth-a-thon
+- 9 national hackathon wins, including 1st place among 436 teams at Swasth-a-thon, IIT Delhi
 - LeetCode Knight: 1,926 rating (top 4%), 550+ problems
+
+---
 
 ## Tools
 
-**Languages:** Python, Go, Java, TypeScript, JavaScript, SQL  
-**AI/ML:** PyTorch, OpenCV, LLMs, RAG, multi-agent systems (Google ADK)  
-**Backend:** FastAPI, PostgreSQL + pgvector, MongoDB, Redis, Docker, Kubernetes  
-**Frontend:** React, Next.js, React Native  
+**Languages:** Python, Go, Java, TypeScript, JavaScript, SQL
+
+**AI/ML:** PyTorch, OpenCV, LLMs, RAG, multi-agent systems (Google ADK)
+
+**Backend:** FastAPI, PostgreSQL + pgvector, MongoDB, Redis, Docker, Kubernetes
+
+**Frontend:** React, Next.js, React Native
+
 **Cloud:** Google Cloud, Azure
 
 ---
 
-Email is the fastest way to reach me: [kavinthakur@gmail.com](mailto:kavinthakur@gmail.com)
+I tend to have a few things going on at once. If something here interests you, feel free to reach out fastest reply is [LinkedIn](https://linkedin.com/in/kavin070810) and [**kavinthakur@gmail.com**](mailto:kavinthakur@gmail.com).
+
+
