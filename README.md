@@ -1,13 +1,20 @@
 
 # Kavin Thakur
 
-Third-year B.E. Computer Science (AI & ML) student at Chitkara University, graduating in 2028.
+Never thought I'd go from debugging college projects to researching computer vision in Taiwan, building AI products at IIM Ahmedabad, and spending an unreasonable amount of time figuring out why something that worked five minutes ago suddenly doesn't.
 
-I like building things that are a little harder than they first appear. Most of my work sits somewhere between AI/ML and systems engineering: computer vision, LLMs, multi-agent systems, RAG, agentic memory and backend infrastructure.
+I'm a third-year B.E. Computer Science (AI & ML) student at Chitkara University, graduating in 2028.
 
-I'm usually interested in the part after the demo works. What happens when the data gets messy, the model gets something wrong, or the system runs out of memory? That's where a lot of the interesting engineering begins.
+**A little about my journey:**
+- **Data Science Intern @ Infomo Global** — My first internship, just after my first semester. My first look at working with production-scale data.
+- **Visiting AI/ML Researcher @ National Ilan University, Taiwan** — Four months of computer vision research, living independently in a new country and learning what research looks like beyond the results on a screen.
+- **AI Resident '26 @ IIMA Ventures, IIM Ahmedabad** — Selected among 40 from 24,503 applicants. Six weeks of building, talking to potential customers, meeting founders and learning to think beyond the code.
 
-Currently looking for **SWE, AI/ML and research internships** for January–June 2027 or Summer 2027.
+Most of my work sits somewhere between AI/ML and systems engineering: computer vision, LLMs, multi-agent systems, RAG, agentic memory and backend infrastructure.
+
+I'm especially interested in what happens after the demo works: messy data, unreliable model outputs, limited compute and systems that need to hold up in the real world.
+
+**Looking for SWE, AI/ML and research internships for January–June 2027 or Summer 2027.**
 
 [Portfolio](https://kavinthakur.vercel.app) · [LinkedIn](https://linkedin.com/in/kavin070810) · [LeetCode](https://leetcode.com/u/auraCodes/) · [Kaggle](https://www.kaggle.com/kavinthakurkm) · [Hugging Face](https://huggingface.co/auraCodes) · [Email](mailto:kavinthakur@gmail.com)
 
@@ -86,8 +93,8 @@ Some of my favourite engineering lessons have come from reading code written by 
 
 ## Experience
 
-- **Co-founder, Cloutly:** Building a WhatsApp-first AI agent for content creators, with persistent memory and a brand-side dashboard. MVP in beta. Built during the IIMA Ventures AI Summer Residency 2026 (40 selected from 24,503 applicants; Top Performer).
-- **Visiting AI/ML Researcher, National Ilan University, Taiwan (2026):** Worked on computer vision research, collaborated with an international lab team, and learned a lot about research beyond the results on a screen. Also got to volunteer with lab members, introducing elderly residents to AI tools. One of the most memorable parts of the experience.
+- **Co-founder, Cloutly:** Building a WhatsApp-first AI agent for content creators, with persistent memory and a brand-side dashboard. MVP in beta. Built during the IIMA Ventures AI Summer Residency 2026.
+- **Visiting AI/ML Researcher, National Ilan University, Taiwan (2026):** Computer vision research, international lab collaboration and volunteering with lab members to introduce elderly residents to AI tools.
 - **Technical Head, IEEE-CIET Student Branch:** Lead 20+ student developers. Built Split or Steal, an event platform that handled 10,000+ burst registrations with zero downtime. Led the branch website migration to Next.js, TypeScript and Supabase.
 - **Data Science Intern, Infomo Global:** My first internship, just after my first semester. A first look at production-scale data and the people who helped me find my feet in the industry.
 
@@ -115,6 +122,6 @@ Some of my favourite engineering lessons have come from reading code written by 
 
 ---
 
-I tend to have a few things going on at once. If something here interests you, feel free to reach out fastest reply is [LinkedIn](https://linkedin.com/in/kavin070810) and [**kavinthakur@gmail.com**](mailto:kavinthakur@gmail.com).
+I tend to have a few things going on at once. If something here interests you, feel free to reach out.
 
-
+Fastest way to reach me: [LinkedIn](https://linkedin.com/in/kavin070810) or [**kavinthakur@gmail.com**](mailto:kavinthakur@gmail.com).
