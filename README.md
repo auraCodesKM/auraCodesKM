@@ -1,79 +1,86 @@
 # Kavin Thakur
 
-**AI/ML · Backend · Systems**
+Third-year CS (AI & ML) student at Chitkara University. I build AI systems that are meant to be trusted, not just demoed: multi-agent pipelines, RAG over messy data, and the evals, tracing and guardrails around them.
 
-I build AI systems that are meant to work outside notebooks — from retrieval and inference pipelines to full-stack products.
+Looking for **SWE, AI/ML and research internships** for January–June 2027 or Summer 2027. Graduating June 2028.
 
-B.Tech CSE (AI/ML) @ Chitkara University · AI Summer Resident @ IIMA Ventures · Visiting AI/ML Researcher @ NIU Taiwan · LeetCode Knight
-
-[LinkedIn](https://linkedin.com/in/kavin070810) · [Portfolio](https://kavinthakur.vercel.app) · [Email](mailto:kavinthakur@gmail.com) · [Resume](https://drive.google.com/file/d/1Z1Z0hZhWc8DTKY85Ac2_66sv-A6499Pr/view?usp=drive_link)
+[Portfolio](https://kavinthakur.vercel.app) · [LinkedIn](https://linkedin.com/in/kavin070810) · [LeetCode](https://leetcode.com/u/LEETCODE_USERNAME/) · [Kaggle](https://www.kaggle.com/kavinthakurkm) · [Hugging Face](https://huggingface.co/auraCodes) · [Email](mailto:kavinthakur@gmail.com)
 
 ---
+
+## Projects
+
+### [Judgebench](https://github.com/auraCodesKM/judgebench)
+`Python` `Google ADK` `Gemini` `PostgreSQL + pgvector` `Google Cloud`
+
+- **Problem:** hackathon judges get a few minutes per team. Claims like "real time" or "fully tested" go unchecked, so the best pitch wins, not the best build.
+- **Solution:** multi-agent pipeline (ReAct investigator, majority-of-3 judges, a critic that can only lower scores) that reads each repo, CI and live app without running any code, then checks every claim against that evidence.
+- **Engineering:** crash-safe state machine with an outbox, one trace per submission, and tokens, latency and cost logged per agent call. 52 security tests cover SSRF, archive bombs and prompt injection.
+- **Result:** majority voting cut score variance from 9.56 to 2.67. Tested on six synthetic repos; first real event pending.
+
+### [AfterCircular](https://github.com/auraCodesKM/AfterCircular)
+`Python` `FastAPI` `Azure AI Search` `Next.js`
+
+- **Problem:** compliance teams read every SEBI circular by hand and compare it against their own policies. Most don't apply, and the ones that do bury the change in long PDFs.
+- **Solution:** reads the regulator's site, extracts obligations, and runs hybrid vector + keyword search over the company's policy repo to check each one. A typed classifier triages first, so irrelevant circulars cost no LLM call.
+- **Guardrails:** a conflict needs a verbatim regulatory quote and a matching policy chunk, and nothing is filed without a person's approval.
+- **Result:** ran on Azure Container Apps (Sept 2026). About $0.05 to scan six live circulars.
+
+### [BRD Agent](https://github.com/auraCodesKM/brdAgentBackend)
+`Python` `LightRAG` `Redis` `Qwen (local)` `WebSockets`
+
+- **Problem:** requirements are scattered across email threads. Writing a requirements document means working out who asked for what and where stakeholders disagree.
+- **Solution:** builds a knowledge graph of people, systems and decisions from emails, fuses graph and keyword search, reranks, and streams an eight-section document to the UI section by section.
+- **Engineering:** routes narrative sections to a 7B model and table-heavy sections to a 32B model so both fit on one GPU.
+- **Scale:** ingested the real Enron corpus of 500,000 emails. Team project, HackFest 2.0 (GDG Cloud New Delhi); this repo is the backend.
+
+### [PingSight](https://github.com/auraCodesKM/PingSight)
+`PyTorch` `OpenCV` `SciPy`
+
+- **Problem:** pro multi-camera ball tracking doesn't exist for ordinary broadcast footage.
+- **Solution:** 3D ball trajectories, bounces and landing zones from a single camera, using a physics fit on top of Kienzle et al. (WACV 2026).
+- **Result:** run on 519 World Tour clips (518 completed). Research at National Ilan University, Taiwan. Results only here; the code is private.
+
+### [GitReason](https://github.com/auraCodesKM/gitReason)
+`React` `Express` `MongoDB` `Gemini`
+
+- **Problem:** LLM summaries of a codebase invent files that don't exist.
+- **Solution:** generates an architecture graph and checks every node against the real file tree. Invalid nodes go back to the model for a fix, then get pruned.
+- **Live:** [git-reason.vercel.app](https://git-reason.vercel.app)
+
+**Also:** [sarvam-tts-dataset](https://github.com/auraCodesKM/sarvam-tts-dataset), a 73-minute Indian English + Hindi speech dataset (555 clips) with a pipeline that rejects bad audio before any paid transcription call.
+
+---
+
+## Open source
+
+- **Kubeflow Trainer:** [#4166](https://github.com/kubeflow/trainer/pull/4166) e2e test that checks MPI ranks run on both nodes (merged) · [#4199](https://github.com/kubeflow/trainer/pull/4199) fix for the Volcano gang-scheduling docs (merged)
+- **Jaeger:** [#9811](https://github.com/jaegertracing/jaeger/pull/9811) (in review)
+<!-- TODO: add once the PR number and status are confirmed
+- **Volcano:** [#NNNN](https://github.com/volcano-sh/volcano/pull/NNNN) performance fix, 18 ms → 0.72 ms in benchmark (merged / in review)
+-->
 
 ## Experience
 
-**AI Summer Resident — IIMA Ventures, IIM Ahmedabad** · 2026  
-Selected **Top 40 / 24,503** for an OpenAI-sponsored 6-week AI residency. Co-founded Cloutly as Founding Engineer, owning system architecture, REST APIs, PostgreSQL and multi-agent AI workflows from validation to MVP.
+- **Co-founder, Cloutly:** an AI agent for content creators, MVP in beta. Built during the IIMA Ventures AI Summer Residency 2026 (40 selected from 24,503 applicants; Top Performer).
+- **Visiting AI/ML Researcher, National Ilan University, Taiwan** (2026)
+- **Technical Head, IEEE-CIET Student Branch:** lead 20+ student developers. Built Split or Steal, an event platform that took 10,000+ burst registrations with zero downtime. Led the branch website's migration to Next.js, TypeScript and Supabase.
+- **Data Science Intern, Infomo Global**
 
-**Visiting AI/ML Researcher — National Ilan University, Taiwan** · 2026  
-Built GPU-accelerated computer-vision pipelines for 3D sports analytics from monocular broadcast video; processed and evaluated **519+ real-world clips** across trajectory reconstruction, calibration and inference.
+## Also
 
-**Tech Lead — IEEE Student Branch, Chitkara University** · 2025–Present  
-Lead a **20+ member student developer team** building and maintaining the branch platform; migrated the stack to Next.js/Supabase, reviewed PRs and stress-tested registration workflows with **10,000+ requests**.
+- Major in Artificial Intelligence, IIT Ropar
+- 9 hackathon wins, including 1st of 436 teams at Swasth-a-thon
+- LeetCode Knight: 1,926 rating (top 4%), 550+ problems
 
-**Data Science Intern — Infomo** · 2024–2025  
-Worked with real-world telecommunications data on preprocessing, feature engineering and exploratory analysis for downstream ML workflows.
+## Tools
 
----
-
-## Selected work
-
-**[BRD Agent](https://github.com/auraCodesKM/brdAgentBackend)** — Graph-RAG document intelligence over **500K+ emails**, combining FAISS, LightRAG, BGE reranking, local Qwen inference and WebSocket streaming.
-
-**[VocalWell](https://github.com/auraCodesKM/vocalWell-mk)** — Voice-pathology screening platform built with TensorFlow, FastAPI and Next.js, with automated clinical reports and tamper-evident record verification. **1st place, National Healthcare AI — IIT Delhi.**
-
-**[PingSight — 3D Sports Analytics](https://github.com/auraCodesKM/PingSight)** — End-to-end monocular computer vision for table-tennis broadcasts: GPU inference, camera calibration, 3D trajectory reconstruction and tactical analytics across **519+ clips**.
-
-**[GitReason](https://github.com/auraCodesKM/gitReason)** — Codebase intelligence tool that turns a GitHub repository into an architecture explanation, validated dependency graph and interactive source-level map.
-
----
-## Stack
-
-**AI / ML Engineering**  
-`Python` `PyTorch` `TensorFlow` `Transformers (HF)` `scikit-learn` `NumPy` `Pandas` `FAISS` `RAG Pipelines` `LightRAG`
-
-**Computer Vision / Research**  
-`OpenCV` `SAM 3` `HRNet` `CUDA` `3D Trajectory Reconstruction` `Monocular Depth Estimation` `Kalman Filtering` `Model Evaluation & Benchmarking`
-
-**LLM Systems / Inference**  
-`vLLM` `Ollama` `Qwen` `Open-Source LLMs` `Context Engineering` `Agentic Workflows` `WebSocket Streaming`
-
-**Software Engineering**  
-`Java` `C++` `TypeScript / JavaScript` `SQL` `FastAPI` `Next.js` `REST APIs` `Git` `CI/CD` `Django` `Flask`
-
-**Backend / Infrastructure**  
-`PostgreSQL` `Redis` `MongoDB` `Supabase` `Docker` `Linux` `AWS / GCP / Azure`
+**Languages:** Python, Go, Java, TypeScript, JavaScript, SQL  
+**AI/ML:** PyTorch, OpenCV, LLMs, RAG, multi-agent systems (Google ADK)  
+**Backend:** FastAPI, PostgreSQL + pgvector, MongoDB, Redis, Docker, Kubernetes  
+**Frontend:** React, Next.js, React Native  
+**Cloud:** Google Cloud, Azure
 
 ---
 
-## Highlights
-
-- **Top 40 / 24,503 · Top 0.16%** — OpenAI-sponsored AI Summer Residency · Top Performer
-- **National Winner · ₹1,00,000** — Swasth-a-Thon, PCI India / IIT Delhi · **436 teams**
-- **Top 4 Nationally** — HackFest 2.0, GDG Cloud New Delhi
-- **Top 150 / 4,000+** — AMD × IIT Bombay AI Sprint
-- **9× National Hackathon Winner** — Multiple wins across GDG Hacks, Code with DCG, Hackaccino, HackEminds and others
-- **1,926 LeetCode rating · Knight · Top 3.94%** — 550+ DSA problems
-- **20+ student developers led** — IEEE Student Branch Tech Lead
-
----
-
-##  Contribution
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auracodeskm/auracodeskm/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auracodeskm/auracodeskm/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/auracodeskm/auracodeskm/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
+Email is the fastest way to reach me: [kavinthakur@gmail.com](mailto:kavinthakur@gmail.com)
