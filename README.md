@@ -3,12 +3,12 @@
 
 Never thought I'd go from debugging college projects to researching computer vision in Taiwan, building AI products at IIM Ahmedabad, and spending an unreasonable amount of time figuring out why something that worked five minutes ago suddenly doesn't.
 
-I'm a third-year B.E. Computer Science (AI & ML) student at Chitkara University, graduating in 2028.
+I'm a third-year (Penultimate-Year) B.E. Computer Science (AI & ML) student at Chitkara University, graduating in 2028.
 
 **A little about my journey:**
 - **Data Science Intern @ Infomo Global** — My first internship, just after my first semester. My first look at working with production-scale data.
 - **Visiting AI/ML Researcher @ National Ilan University, Taiwan** — Four months of computer vision research, living independently in a new country and learning what research looks like beyond the results on a screen.
-- **AI Resident '26 @ IIMA Ventures, IIM Ahmedabad** — Selected among 40 from 24,503 applicants. Six weeks of building, talking to potential customers, meeting founders and learning to think beyond the code.
+- **AI Resident '26 Penultimate-Yea@ IIMA Ventures, IIM Ahmedabad** — Selected among 40 from 24,503 applicants. Six weeks of building, talking to potential customers, meeting founders and learning to think beyond the code.
 
 Most of my work sits somewhere between AI/ML and systems engineering: computer vision, LLMs, multi-agent systems, RAG, agentic memory and backend infrastructure.
 
