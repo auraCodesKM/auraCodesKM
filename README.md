@@ -8,7 +8,7 @@ I'm a third-year (Penultimate-Year) B.E. Computer Science (AI & ML) student at C
 **A little about my journey:**
 - **Data Science Intern @ Infomo Global** — My first internship, just after my first semester. My first look at working with production-scale data.
 - **Visiting AI/ML Researcher @ National Ilan University, Taiwan** — Four months of computer vision research, living independently in a new country and learning what research looks like beyond the results on a screen.
-- **AI Resident '26 Penultimate-Yea@ IIMA Ventures, IIM Ahmedabad** — Selected among 40 from 24,503 applicants. Six weeks of building, talking to potential customers, meeting founders and learning to think beyond the code.
+- **AI Resident '26 @ IIMA Ventures, IIM Ahmedabad** — Selected among 43 from 11,000 applicants. Six weeks of building, talking to potential customers, meeting founders and learning to think beyond the code.
 
 Most of my work sits somewhere between AI/ML and systems engineering: computer vision, LLMs, multi-agent systems, RAG, agentic memory and backend infrastructure.
 
